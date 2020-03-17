@@ -51,7 +51,7 @@
   var options = {
     light: "light.css",
     dark: "dark.css",
-    startAt: "23:00",
+    startAt: "18:00",
     endAt: "06:00",
     checkSystemScheme: true,
     saveOnToggle: true
@@ -165,7 +165,7 @@
     function changeTogglerText() {
       getModeRemoverState()
       var currentMode = DarkMode.getMode()
-      ModeToggler.textContent = currentMode === 'light'  ? 'dark 🔆' : 'light 🌒'
+      ModeToggler.textContent = currentMode === 'light'  ? '🔆' : '🌒'
     }
 	</script>
 </body>
