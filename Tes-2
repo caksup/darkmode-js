@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	 <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>DarkModeJS – nickdeny</title>
+  <meta name="description" content="Pure Javascript, without any plugins and jQuery">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="DarkModeJS – nickdeny">
+  <meta property="og:url" content="https://nickdeny.com">
+  <meta property="og:description" content="Pure Javascript, without any plugins and jQuery">
+  <meta property="product:brand" content="nickdeny">
+	<link rel="stylesheet" type="text/css" href="https://caksup.github.io/mgjs/styles.css">
+	<noscript>
+		<link rel="stylesheet" type="text/css" href="https://caksup.github.io/mgjs/light.css">
+	</noscript>
+	
+</head>
+<body>
+	<header>
+    <div class="container">
+      <h1>
+       Mode Gelap JS
+      </h1>
+      <p class="header-description">
+        Murni JS tanpa plugin lain... 
+      </p>
+    </div>
+  </header>
+
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+	<script src="https://caksup.github.io/mgjs/dist/darkmode.min.js"></script>
+	<script src='https://caksup.github.io/mgjs/all.js' type='text/javascript'></script>
+</body>
+</html>
